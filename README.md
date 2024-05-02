@@ -12,7 +12,7 @@ Features include:
 - view the steps related to a task
 - running the agent continuously vs. step-by-step
 
-[](./api.png)
+![Swagger API](./api.png)
 
 ## Getting Started
 
