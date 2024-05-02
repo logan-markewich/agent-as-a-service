@@ -1,0 +1,12 @@
+file:
+  data_dir: "data"
+  use_llama_parse: False
+#web:
+#  urls:
+#    - "https://www.example.com"
+#    - "https://www.example2.com"
+#db:
+#  uri: "sqlite:///data/db.sqlite"
+#  queries:
+#    - "SELECT * FROM table"
+#    - "SELECT * FROM table2"

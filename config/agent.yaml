@@ -1,0 +1,8 @@
+agent:
+  system_prompt: "You are a helpful assistant with tools to look up information about the LlamaIndex documentation."
+  tool_name: "docs_search"
+  tool_description: "Useful for answering questions about details found in the LlamaIndex documentation. The input should be a specific question about the documentation."
+  verbose: true
+index:
+  top_k: 10
+  rerank_top_n: 3
